@@ -57,7 +57,7 @@ func BenchmarkLiamSearch(b *testing.B) {
 func ExampleLiamSort() {
 	slice := []int{2, 7, 1, 3}
 	fmt.Println(LiamSort(slice))
-	//Output: [2, 7, 1, 3]
+	//Output: [2 7 1 3]
 }
 
 func ExampleLiamSearch() {
