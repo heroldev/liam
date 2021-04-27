@@ -1,4 +1,9 @@
 # Liam.go
+
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/heroldev/liam/Liam%20CI/main)
+[![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/heroldev/liam)
+
+
 A package of Liam Seper's algorithms, written and implemented in Golang.
 
 ## LiamSort
