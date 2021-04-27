@@ -7,7 +7,7 @@
 A package of Liam Seper's algorithms, written and implemented in Golang.
 
 # Usage
-```import "github.com/heroldev/liam```
+```import "github.com/heroldev/liam"```
 
 ## LiamSort
 LiamSort assumes the array is already sorted, and returns the unaltered array back. Runs in constant time.
