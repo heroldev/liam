@@ -1,4 +1,4 @@
-name: Liam-CI
+name: build
 
 on:
   push:
