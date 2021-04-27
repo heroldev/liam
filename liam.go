@@ -1,5 +1,5 @@
 /*
-Liam.go implements Liam Seper's algorithms into Golang.
+Package Liam implements Liam Seper's algorithms into Golang.
 
 LiamSort assumes the array is already sorted, and returns the unaltered array back. Runs in constant time.
 
