@@ -3,6 +3,7 @@
 ![build](https://github.com/heroldev/liam/actions/workflows/ci.yml/badge.svg)
 ![build](https://github.com/heroldev/liam/actions/workflows/liam.yml/badge.svg)
 [![Go Report](https://img.shields.io/badge/go%20report-A-brightgreen.svg)](https://goreportcard.com/report/github.com/heroldev/liam)
+[![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/heroldev/liam)
 
 A package of Liam Seper's algorithms, written and implemented in Golang.
 
